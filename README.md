@@ -1,10 +1,8 @@
 Projects for the "Computer Organization" course of SCSE,BUAA
 =============================================================================================================
-WARNING:Junior students in SCSE or HAC HONOR COLLEGE,BUAA,all the files is for STUDY AND SUGGESTIONS ONLY!!!.<\br>
 DO NOT ATTEMPT TO COPY MY FILES IN YOUR PROJECT!</br>
-Every year some students FAIL THE WHOLE COURSE and are PUNISHED by BUAA because they copied senior students'code !
 -------
-学弟学妹们，git clone过去之后参考一下无妨，但是千万别抄！！！！</br>
+6系和23系的学弟学妹们，git clone过去之后参考一下无妨，但是千万别抄！！！！</br>
 学院的查重机制不是摆设！而且非常严格！每年都有人因为抄GITHUB上往届学生代码被挂掉整门课程设计并背了处分的！！！</br>
 -------------------------------------------------------
 Overview & Introduction
@@ -15,34 +13,33 @@ Jiaming in Class 17JXB06 during the autumn semester of 2018-2019(1st semester of
   This repository contains the following projects:</br>
   
   *Project3:
-  ------------
   Monocycle CPU implemented and simulated by Logisim</br>
+  
   *Project4: 
-  ------------
   Monocycle CPU implemented and simulated by Verilog (Xinlix ISE and ISIM)</br>
+  
   *Project5: 
-  ------------
   5-stage Pipeline CPU implemented and simulated by Verilog (Xinlix ISE and ISIM)</br>
         -achieved hazard control (stall/forward) and branch delayed slot</br>
         -support a mips instruction set containing 11 instructions</br>
+        
   *Project6 (for HAC Honor College(23rd faculty)): 
-  ------------
   5-stage Pipeline CPU (supporting Interrupt Request and Exception )</br>
         -implemented and simulated by Verilog (Xinlix ISE and ISIM)</br>
         -supporting Interrupt Request and Exception</br>
+        
   *Project6 (for SCSE (6th faculty)):
-  ------------
   5-stage Pipeline CPU implemented and simulated by Verilog (Xinlix ISE and ISIM)</br>
         -support a mips instruction set containing 50 instructions</br>
         -support integer multiplication and division</br>
+        
   *Project7: 
-  ------------
   5-stage Pipeline CPU （the combination of P6 HAC version and Non-HAC version） </br>
         supporting Interrupt Request and Exception</br>
         -support a mips instruction set containing 50 instructions</br>
         -support integer multiplication and division</br>
+        
   *Project 8:
-  ------------
   5-stage Pipeline CPU (FPGA,hardware and software interface)</br>
         -support  I/O </br>
             --support uart transmission( implementing this function with interrupt request)</br>
