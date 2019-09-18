@@ -8,8 +8,7 @@ DO NOT ATTEMPT TO COPY MY FILES IN YOUR PROJECT!</br>
 Overview & Introduction
 -------
   This is a repository for the copy of submitted and accepted project files in the "Computer Organization" course in School of 
-Computer Science and Engineering(SCSE),Beihang University. All the projects files in this repository are finished by Student Tang
-Jiaming in Class 17JXB06 during the autumn semester of 2018-2019(1st semester of Grade 2)</br>
+Computer Science and Engineering(SCSE),Beihang University. All the projects files in this repository are finished during the autumn semester of 2018-2019(1st semester of Grade 2)</br>
   This repository contains the following projects:</br>
   
   *Project3:
