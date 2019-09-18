@@ -2,7 +2,7 @@ Projects for the "Computer Organization" course of SCSE,BUAA
 =============================================================================================================
 DO NOT ATTEMPT TO COPY MY FILES IN YOUR PROJECT!</br>
 -------
-千万别抄！！！！</br>
+千万别在课设里抄袭！！！！</br>
 
 -------------------------------------------------------
 Overview & Introduction
